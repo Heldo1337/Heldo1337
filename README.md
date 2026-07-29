@@ -1,16 +1,32 @@
-## Hi there 👋
+# Kevin Weckmann
 
-<!--
-**Heldo1337/Heldo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer | Kubernetes | Docker | CI/CD | Linux | Grafana
 
-Here are some ideas to get you started:
+Building and operating production infrastructure with Kubernetes, monitoring and automation. 3+ years hands-on experience in large-scale production environments. Open to remote opportunities worldwide.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+
+---
+
+- Kubernetes cluster operations and infrastructure automation
+- Prometheus + Grafana observability stacks
+- Deepening Ansible, Terraform and GitOps (ArgoCD) skills
+
+## Featured project
+
+---
+
+[Spring PetClinic Microservices - DevOps Infrastructure](https://github.com/HrdK-ore-Petclinic) Platform & Operations Lead: built a production-grade Kubernetes cluster from scratch on Proxmox — kubeadm, Calico, containerd, Longhorn distributed storage, MySQL HA with master-slave replication, full Prometheus/Grafana monitoring stack with Slack alerting, NGINX Ingress, three-layer backup strategy. Live system: 74 pods across 9 namespaces, 8 microservices in production. Liora DevOps bootcamp capstone.
+
+## Tech stack
+
+---
+
+`Kubernetes` `Docker` `Terraform` `GitLab CI` `Prometheus` `Grafana` `Linux` `Bash` `SQL` `NGINX` `Vault` `Kafka`
+
+## Contact
+
+---
+
+- LinkedIn: [linkedin.com/in/kevin-weckmann-0a679133b](https://www.linkedin.com/in/kevin-weckmann-0a679133b)
+- Email: kevin.weckmann@gmx.de
