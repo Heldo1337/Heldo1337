@@ -1,6 +1,6 @@
 # Kevin Weckmann
 
-DevOps Engineer | Kubernetes | Docker | CI/CD | Linux | Grafana
+DevOps Engineer
 
 Building and operating production infrastructure with Kubernetes, monitoring and automation. 3+ years hands-on experience in large-scale production environments. Open to remote opportunities worldwide.
 
